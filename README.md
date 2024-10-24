@@ -1,4 +1,4 @@
-<h2 align="left">Hello World, 🌎👋! Welcome to my Profile...😉<br> My name is Sujan Rai and I'm computer engineer from Nepal...</h2>
+<h2 align="left">Hello World, 🌎👋! Welcome to my Profile...😉<br> My name is Sujan Rai and I'm from Nepal...</h2>
 
 ###
 
