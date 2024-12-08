@@ -1,6 +1,4 @@
-<h2 align="left">Hello World, 🌎👋! Welcome to my Profile...😉<br> My name is Sujan Rai and I'm from Nepal...</h2>
-
-<h3 align="right">Hello World!!! <br>Learning and Getting better than yesterday.</h3>
+<h3 align="left">Hello World!!! <br>Learning and Getting better than yesterday.</h3>
 
 ###
 
