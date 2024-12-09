@@ -25,9 +25,6 @@
   <img height="187" src="https://res.cloudinary.com/dusqlukhy/image/upload/v1733291958/media_Profile_website/upload_project_img/dcejkryd22iecxynbeht.png"  />
 </div>
 
-###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Sujan-Rai-426/Sujan-Rai-426/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -38,6 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujan-Rai-426&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujan-Rai-426&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+  <img src="https://raw.githubusercontent.com/Sujan-Rai-426/Sujan-Rai-426/output/snake.svg" alt="Snake animation" />
 
 
 ###
