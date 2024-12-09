@@ -26,6 +26,10 @@
 </div>
 
 ###
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Sujan-Rai-426/Sujan-Rai-426/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br clear="both">
 
@@ -35,8 +39,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujan-Rai-426&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Sujan-Rai-426/Sujan-Rai-426/output/snake.svg" alt="Snake animation" />
 
 ###
