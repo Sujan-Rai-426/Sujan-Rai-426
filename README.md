@@ -1,6 +1,6 @@
 <br clear="both">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFvbXVkZzhlZWxtNnBtb2ZqN2kxZjNscWlkeDM4bWwyaXd3eTEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jYnjsvBzqpaeX8zyqS/giphy.gif" width="300" />
-
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> </p>
+<br><br>
 ###
 
 ###
@@ -8,6 +8,9 @@
 # 💫 About Me:
 I'm currently learning React and Rest API.<br>And Actively looking for further to contribute in impactful project.
 
+#
+#
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFvbXVkZzhlZWxtNnBtb2ZqN2kxZjNscWlkeDM4bWwyaXd3eTEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jYnjsvBzqpaeX8zyqS/giphy.gif" width="300" />
 
 ## 🌐 Socials:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sujan-Rai-426&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge)
