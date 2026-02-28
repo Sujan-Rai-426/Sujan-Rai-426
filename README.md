@@ -37,11 +37,10 @@ I'm currently learning about open Authorization and authentication.<br>And Activ
 
 
 # 📊 GitHub Stats:
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Sujan-Rai-426&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sujan-Rai-426&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Sujan-Rai-426&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sujan-Rai-426&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Rai-426&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ###
 <br clear="both">
