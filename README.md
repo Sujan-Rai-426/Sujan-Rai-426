@@ -6,7 +6,7 @@
 ###
 
 # 💫 About Me:
-I'm currently learning React and Rest API.<br>And Actively looking for further to contribute in impactful project.
+I'm currently learning about open Authorization and authentication.<br>And Actively looking for further to contribute in impactful project.
 
 #
 #
