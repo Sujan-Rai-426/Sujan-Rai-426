@@ -6,7 +6,7 @@
 ###
 
 # 💫 About Me:
-I'm currently learning about open Authorization and authentication.<br>And Actively looking for further to contribute in impactful projects.
+I'm currently learning about open Authorization and authentication.<br>And Actively looking for further to contribute in impactful project.
 
 #
 #
