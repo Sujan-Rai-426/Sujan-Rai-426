@@ -12,12 +12,12 @@ I'm currently learning about open Authorization and Authentication.<br>And Activ
 #
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFvbXVkZzhlZWxtNnBtb2ZqN2kxZjNscWlkeDM4bWwyaXd3eTEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jYnjsvBzqpaeX8zyqS/giphy.gif" width="300" />
 
-## 🌐 Social Media:
+## 🌐 Social Medias:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sujan-Rai-426&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sujan.rai.92202/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sujan_rai_426/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujan-rai-18a07b2a6/) 
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stacks:
 ### 🛠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### 🎨 Frontend & UI Tools :-
