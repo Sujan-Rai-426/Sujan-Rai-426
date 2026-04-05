@@ -4,12 +4,12 @@
 
 ###
 
+#
+### 📉 Git Activity & Commit Track
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sujan-Rai-426&repo=Rent_NEPAL&theme=github-compact&color=1f3a93&line=dc143c&point=1f3a93&area=true&hide_border=true)
+
 ## 💫 About Me:
 I'm currently learning about open Authorization and Authentication.<br>And Actively looking for further to contribute in impactful projects.
-
-#
-#
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFvbXVkZzhlZWxtNnBtb2ZqN2kxZjNscWlkeDM4bWwyaXd3eTEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jYnjsvBzqpaeX8zyqS/giphy.gif" width="300" />
 
 ## 🌐 Social Medias:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sujan-Rai-426&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge)
