@@ -29,7 +29,9 @@ I'm currently learning about open Authorization and Authentication.<br>And Activ
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sujan-Rai-426&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
