@@ -6,7 +6,6 @@
 ## 📉 Git Activity & Commit Track
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sujan-Rai-426&repo=Rent_NEPAL&theme=github-compact&color=1f3a93&line=dc143c&point=1f3a93&area=true&hide_border=true)
 
-
 ## 💫 About Me:
 I'm currently learning about open Authorization and Authentication.<br>And Actively looking for further to contribute in impactful projects.
 
