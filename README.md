@@ -37,7 +37,6 @@ I'm currently learning about open Authorization and Authentication.<br>And Activ
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sujan-Rai-426&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Rai-426&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ###
 <br clear="both">
 
